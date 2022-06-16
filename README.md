@@ -1,2 +1,3 @@
-Monty is somehow crazy interpreter!
-We will come back after an hour!
+#IF you didnt have any experience with DSA, I highly sugget you to go high with it
+
+# C - Stacks, Queues - LIFO, FIFO
